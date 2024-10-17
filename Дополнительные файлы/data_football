@@ -1,0 +1,12 @@
+name,speed,shoot,dribbling,pas,phy,def,rating,position
+messi,7,10,10,10,7,6,91,attack
+ronaldo,8,9,7,6,9,5,81,attack
+neymar,9,7,9,8,6,5,81,attack
+ibra,6,7,7,7,8,6,76,middle
+mbappe,10,8,8,7,7,4,81,attack
+ramos,6,7,5,7,7,9,76,defender
+alba,7,6,6,8,6,7,75,defender
+modric,7,8,7,9,7,7,83,middle
+xavi,7,7,8,9,6,8,83,defender
+de_bruyne,7,8,7,10,7,7,85,middle
+haaland,9,8,6,6,10,5,81,attack
